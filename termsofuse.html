@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Box with Neon Highlights</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background: #121212; /* Dark background for contrast */
+            color: #e0e0e0; /* Light gray text for readability */
+            margin: 0;
+            padding: 20px;
+            text-align: center; /* Center-align text in the body */
+        }
+        .message-box {
+            display: inline-block; /* Makes the box fit content width */
+            background: #1e1e1e; /* Slightly lighter background for the message box */
+            border: 2px solid #00FFFF; /* Neon blue border */
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px auto; /* Center the box horizontally */
+            box-shadow: 0 0 15px rgba(0, 255, 255, 0.5); /* Glow effect */
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .message-box:hover {
+            transform: scale(1.02); /* Slightly enlarge on hover */
+            box-shadow: 0 0 25px rgba(0, 255, 255, 0.7); /* Intense glow on hover */
+        }
+        .highlight {
+            background: linear-gradient(90deg, #00FFFF, #003366); /* Neon blue gradient */
+            color: #fff; /* White text */
+            padding: 2px 6px;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        .highlight:hover {
+            background: linear-gradient(90deg, #00FFFF, #000000); /* Darker gradient on hover */
+            transform: scale(1.05); /* Slightly larger on hover */
+            text-shadow: 0 0 15px #00FFFF; /* Intensified glow effect on hover */
+        }
+        h1, h2 {
+            color: #00FFFF; /* Neon blue for headings */
+            text-shadow: 0 0 10px #00FFFF; /* Glowing effect */
+        }
+        .note {
+            background: #333; /* Slightly lighter background for notes */
+            border-left: 4px solid #00FFFF; /* Neon blue border for emphasis */
+            padding: 10px;
+            margin: 20px 0;
+        }
+        .back-to-home {
+            display: inline-block;
+            background: #00FFFF; /* Neon blue background for the button */
+            color: #000; /* Black text */
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            margin-top: 20px;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        .back-to-home:hover {
+            background: #003366; /* Darker blue on hover */
+            color: #fff; /* White text on hover */
+            transform: scale(1.05); /* Slightly enlarge on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="message-box">
+        <h1>License and Compliance</h1>
+        <p>&copy; <span class="highlight">DENUVERT</span> | ECC | SPC 2024 - All Rights Reserved</p>
+
+        <p><span class="highlight">DENUVERT</span> tools are software derived from original and redistributed code by <span class="highlight">DENUVERT</span> and other developers. Compliance with the original distributor’s license is mandatory, and all users are responsible for understanding and adhering to these terms. Unauthorized use, modification, or redistribution of the tool is prohibited and may result in legal consequences.</p>
+
+        <p>The source code of any software or programs included in the <span class="highlight">DENUVERT</span> tool must not be disclosed. Users may use, modify, or distribute the original source code but should use the original software provided by <span class="highlight">DENUVERT</span> without modification to maintain consistency and security.</p>
+
+        <p>All individuals and organizations using this software must thoroughly review and comply with the original distributor's license requirements. <span class="highlight">DENUVERT</span> developers and distributors are not responsible for any legal or financial consequences of non-compliance. Understanding and adherence to the license terms are strongly advised.</p>
+
+        <h2>Terms of Use</h2>
+        <p>Unauthorized use is illegal and may lead to legal action. This tool should only be used ethically with permission and for educational purposes. Misuse can lead to repercussions and legal action, with users bearing all related risks. Maintaining strong security is crucial to prevent malware infections. The tool is provided "as-is" with no guarantees, and users should use it at their own risk. Non-educational use is prohibited.</p>
+
+        <h2>Usage Warning</h2>
+        <p>The creators and distributors of this software are not liable for any damage, loss, data corruption, hardware failure, or system instability resulting from its use. The software is used at the user’s own risk, and all consequences are their responsibility.</p>
+
+        <p>This program includes rapidly flashing GDI modifications that may affect users sensitive to visual stimuli or neurological reactions. Users prone to sensitivity syndromes or light-induced seizures should avoid using this program or seek medical advice. The creators and distributors do not accept any responsibility for legal, medical, or financial issues arising from the software. Users must understand and agree to these warnings before using the program.</p>
+
+        <div class="note">
+            <strong>Note:</strong> Over 90% of malware in <span class="highlight">DENUVERT</span> tools was tested in virtual machines, not on actual computers. Disable Windows security programs before installing any software, as they may automatically delete files.
+        </div>
+
+        <!-- Back to Home Button -->
+        <a href="index.html" class="back-to-home">Back to Home</a>
+    </div>
+</body>
+</html>
