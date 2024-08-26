@@ -52,7 +52,7 @@ visit: https://denuvert.github.io
 
 ## Contact
 
-For more information, support, or to join our community, visit our Website or join our Discord server. 💬🌐
+For more information, support, or to join our community, visit our [Website] (https://denuvert.github.io) or join our [Discord server] (https://discord.com/invite/auPpExeUu7). 💬🌐
 
 ---
 
