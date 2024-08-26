@@ -1,0 +1,59 @@
+**Welcome to DENUVERT**
+
+*Digital Environment Network for Understanding Virus, Exploits, and Research in Technology*
+
+---
+
+**About DENUVERT**
+
+DENUVERT is committed to advancing cybersecurity knowledge through innovative research and practical tools. Our goal is to equip individuals and organizations with resources to safeguard against digital threats.
+
+**Features**
+
+- **GDI Malware**: Explore advanced malware targeting the Graphics Device Interface (GDI).
+  
+- **BSOD Tools**: Simulate and troubleshoot Blue Screen of Death (BSOD) errors for diagnostics and testing.
+
+- **DDoS Tools**: Assess network resilience with Distributed Denial of Service tools under attack scenarios.
+
+- **Ransomware**: Research and simulate ransomware attacks and develop protection strategies.
+
+- **Keylogger**: Capture keystrokes for ethical hacking and security research.
+
+- **Tokengrabber**: Analyze token-based authentication systems with dedicated research tools.
+
+- **SQL Injection Tools**: Test database security and learn mitigation techniques through simulated SQL injection attacks.
+
+- **VNC Spy**: Conduct remote monitoring with Virtual Network Computing (VNC) tools for security audits.
+
+- **Junji-OPT [BETA]**: Enhance computer performance by optimizing system processes and protecting against malware.
+
+---
+
+**License**
+
+All DENUVERT tools and resources are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You may share and adapt the material with appropriate credit, provided it is not used for commercial purposes.
+
+**Terms of Use**
+
+By using DENUVERT tools and resources, you agree to our terms and conditions. All materials are intended for educational purposes only. Redistribution or commercial use without permission is prohibited.
+
+**License and Compliance**
+
+- All DENUVERT tools are based on original and redistributed code. Users must comply with the original distributor's license terms. Unauthorized use, modification, or redistribution is prohibited and may have legal consequences.
+
+- The source code of any software included in DENUVERT tools must remain confidential. Users are encouraged to use the original software as provided by DENUVERT to ensure consistency and security.
+
+- Users must thoroughly review and adhere to the original distributor’s license requirements. DENUVERT is not liable for legal or financial consequences of non-compliance.
+
+**Usage Warning**
+
+- DENUVERT tools are provided "as-is" with no guarantees. Use at your own risk and ensure strong security measures to prevent malware infections.
+
+- The software may include rapidly flashing GDI modifications that could affect individuals sensitive to visual stimuli or neurological reactions. Users prone to sensitivity or light-induced seizures should avoid using this software or seek medical advice. DENUVERT disclaims responsibility for any resulting legal, medical, or financial issues.
+
+- Note: Over 90% of malware in DENUVERT tools was tested in virtual machines, not on actual computers. Disable Windows security programs before installation, as they may automatically delete files.
+
+
+© 2024 DENUVERT | SPC | ECC | JUNJI-OPT
+
